@@ -1,4 +1,9 @@
-#COBRA
+### COBRA
+
+Rewriting Ferret utikities in Matlab.
+
+Fast plotting and handling of netcdf files.
+
 _________________________________________________________________________________________________________
                     __
         _______    /*_>-<
@@ -9,6 +14,5 @@ ________________________________________________________________________________
  Author: Andrea Costa
          https://www.researchgate.net/profile/Andrea_Costa10
 	  andrea.costa@pusan.ac.kr
- DOI:
 
 
