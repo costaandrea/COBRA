@@ -1,6 +1,6 @@
 ### COBRA
 
-Rewriting Ferret utikities in Matlab.
+Rewriting Ferret utilities in Matlab.
 
 Fast plotting and handling of netcdf files.
 
@@ -16,3 +16,4 @@ ________________________________________________________________________________
 	  andrea.costa@pusan.ac.kr
 
 
+(I probabaly won't finish this. Feel free to modify it as you please.)
