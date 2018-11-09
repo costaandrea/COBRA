@@ -14,6 +14,3 @@ ________________________________________________________________________________
  Author: Andrea Costa
          https://www.researchgate.net/profile/Andrea_Costa10
 	  andrea.costa@pusan.ac.kr
-
-
-(I probabaly won't finish this. Feel free to modify it as you please.)
